@@ -1,0 +1,6 @@
+#!/bin/fish
+
+git clone git@github.com:jadnw/gemstones-gtk.git
+mkdir -p ~/.local/share
+cp -R gemstones-gtk/themes ~/.local/share/
+rm -rf gemstones-gtk
