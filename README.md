@@ -21,6 +21,7 @@
 ### :boom: Table of Contents
 
 - [Overview](#overview)
+- [Palette](#palette)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [References](#references)
@@ -95,11 +96,22 @@ These are available themes for you to be free to pick
   </div>
 </details>
 
-## :poop: Requirements
+## Palette
+
+Gemstones saves your eyestraints with a dark background and a pastel palette.
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/jadnw/gemstones.nvim/main/media/palette.svg"
+    alt="Gemstones GTK Palette"
+  />
+</div>
+
+## Requirements
 
 - [fish shell](https://fishshell.com)
 
-## :rocket: Installation
+## Installation
 
 Run the following command
 
@@ -109,6 +121,6 @@ curl -sS https://raw.githubusercontent.com/jadnw/gemstones.gtk/main/install | fi
 
 [Change your GTK theme](https://wiki.archlinux.org/title/GTK) with enjoy!
 
-## :memo: References
+## References
 
 - [jadnw/gemstones](https://github.com/jadnw/gemstones)
